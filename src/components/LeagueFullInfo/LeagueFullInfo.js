@@ -23,7 +23,6 @@ const LeagueFullInfo = (props) => {
     strTwitter,
     strYoutube,
     strLogo,
-    strBanner
   } = props.info;
   console.log(props.info);
   return (
