@@ -1,0 +1,67 @@
+.info-description{
+    color: #fff;
+    width: 90%;
+    margin: auto;
+}
+.league-info{
+    display: flex;
+    background-color: #3a42ff;
+    padding: 15px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.info-text {
+    width: 60%;
+    padding-left: 10px;
+}
+
+.info-text p{
+    font-size: 20px;
+    display: block;
+    align-items: center;
+}
+
+.info-text img {
+    width: 15px;
+    margin-right: 8px;
+    margin-top: -3px;
+}
+
+.info-img{
+    width: 40%;
+    float: right;
+}
+
+.info-img img{
+    width: 100%;
+}
+
+.description{
+    margin-top: 10px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img{
+    width: 50px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.banner{
+    background-image: url;
+    height: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.banner img{
+    width: 30%;
+    height: 150px;
+    margin-top: 5%;
+}

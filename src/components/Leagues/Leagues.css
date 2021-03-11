@@ -1,0 +1,18 @@
+.leagues{
+    width: 28%;
+    float: left;
+    background-color: #0E0A2A;
+    height: 220px;
+    margin-right: 5%;
+    margin-bottom: 10px;
+    margin-top: 5%;
+    margin-left: 3px;
+    color: #fff;
+    text-align: center;
+    padding: 2%;
+    border-radius: 8px;
+}
+
+.cart{
+}
+
