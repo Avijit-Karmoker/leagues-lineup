@@ -15,4 +15,16 @@
     text-shadow: 2px 2px 10px #000000;
 }
 
+@media screen and (max-width: 360px){
+    .background{
+        width: 119%;
+        background-size: contain;
+    }
+
+    .background h1{
+        font-size: 70px;
+        width: 100%;
+    }
+}
+
 
